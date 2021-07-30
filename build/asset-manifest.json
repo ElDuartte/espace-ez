@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.df51eb83.chunk.css",
+    "main.js": "/react/static/js/main.060c1c32.chunk.js",
+    "main.js.map": "/react/static/js/main.060c1c32.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.84c60356.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.84c60356.js.map",
+    "static/css/2.ba27c2ca.chunk.css": "/react/static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.db629163.chunk.js": "/react/static/js/2.db629163.chunk.js",
+    "static/js/2.db629163.chunk.js.map": "/react/static/js/2.db629163.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/2.ba27c2ca.chunk.css.map": "/react/static/css/2.ba27c2ca.chunk.css.map",
+    "static/css/main.df51eb83.chunk.css.map": "/react/static/css/main.df51eb83.chunk.css.map",
+    "static/js/2.db629163.chunk.js.LICENSE.txt": "/react/static/js/2.db629163.chunk.js.LICENSE.txt",
+    "static/media/astronauts.ea532e99.svg": "/react/static/media/astronauts.ea532e99.svg",
+    "static/media/badge-header.2c3af956.svg": "/react/static/media/badge-header.2c3af956.svg",
+    "static/media/logo.235d00e1.svg": "/react/static/media/logo.235d00e1.svg",
+    "static/media/platziconf-logo.c1d00c3e.svg": "/react/static/media/platziconf-logo.c1d00c3e.svg",
+    "static/media/BadgeEdit.css": "/react/static/media/stars.d4d2376b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c60356.js",
+    "static/css/2.ba27c2ca.chunk.css",
+    "static/js/2.db629163.chunk.js",
+    "static/css/main.df51eb83.chunk.css",
+    "static/js/main.060c1c32.chunk.js"
+  ]
+}
