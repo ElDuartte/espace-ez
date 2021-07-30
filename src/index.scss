@@ -1,0 +1,18 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+// COMPONENTS
+@import "./scss/components/Badge.scss";
+@import "./scss/components/BadgesList.scss";
+@import "./scss/components/Loader.scss";
+@import "./scss/components/Modal.scss";
+@import "./scss/components/Navbar.scss";
+@import "./scss/components/NotFound.scss";
+@import "./scss/components/PageError.scss";
+@import "./scss/components/PageLoading.scss";
+// PAGES
+@import "./scss/global.scss";
+@import "./scss/Home.scss";
+@import "./scss/Badges.scss";
+@import "./scss/BadgeNew.scss";
+@import "./scss/BadgeEdit.scss";
+@import "./scss/BadgeDetails.scss";
